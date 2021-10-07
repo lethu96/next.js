@@ -22,7 +22,7 @@
     "react-dom": "^16.2.0",
     "react-relay": "^1.5.0",
     "react-relay-network-modern": "2.4.0",
-    "react-relay-network-modern-ssr": "1.2.1"
+    "react-relay-network-modern-ssr": "1.4.0"
   },
   "devDependencies": {
     "babel-plugin-relay": "^1.4.1",
