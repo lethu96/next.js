@@ -12,7 +12,7 @@
     "next": "latest",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "remark-emoji": "2.0.1",
+    "remark-emoji": "2.2.0",
     "remark-images": "0.8.1"
   },
   "license": "ISC"
