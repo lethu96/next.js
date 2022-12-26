@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "css-loader": "^0.28.1",
+    "css-loader": "^4.0.0",
     "prop-types": "^15.5.10",
     "qs": "^6.4.0",
     "next": "latest",
@@ -14,6 +14,6 @@
     "react-dom": "^16.1.1",
     "react-instantsearch": "beta",
     "react-instantsearch-theme-algolia": "beta",
-    "style-loader": "^0.17.0"
+    "style-loader": "^1.1.4"
   }
 }
