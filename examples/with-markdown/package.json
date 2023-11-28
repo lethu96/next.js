@@ -7,7 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@mdx-js/mdx": "0.15.0-0",
+    "@mdx-js/mdx": "2.0.0",
     "@zeit/next-mdx": "1.1.0",
     "next": "latest",
     "react": "^16.0.0",
