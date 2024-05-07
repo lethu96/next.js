@@ -9,7 +9,7 @@
   "dependencies": {
     "@zeit/next-preact": "0.0.7",
     "next": "latest",
-    "preact": "8.2.7",
+    "preact": "8.5.3",
     "preact-compat": "3.18.0"
   },
   "license": "ISC"
