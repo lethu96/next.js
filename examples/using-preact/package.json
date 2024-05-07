@@ -10,7 +10,7 @@
     "@zeit/next-preact": "0.0.7",
     "next": "latest",
     "preact": "8.2.7",
-    "preact-compat": "3.18.0"
+    "preact-compat": "3.19.0"
   },
   "license": "ISC"
 }
