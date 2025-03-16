@@ -37,7 +37,7 @@
     ]
   },
   "dependencies": {
-    "@babel/core": "7.1.2",
+    "@babel/core": "7.26.10",
     "@babel/plugin-proposal-class-properties": "7.1.0",
     "@babel/plugin-proposal-object-rest-spread": "7.0.0",
     "@babel/plugin-syntax-dynamic-import": "7.0.0",
@@ -46,7 +46,7 @@
     "@babel/preset-env": "7.1.0",
     "@babel/preset-react": "7.0.0",
     "@babel/runtime": "7.1.2",
-    "@babel/runtime-corejs2": "7.1.2",
+    "@babel/runtime-corejs2": "7.26.10",
     "@babel/template": "7.1.2",
     "ansi-html": "0.0.7",
     "arg": "3.0.0",
